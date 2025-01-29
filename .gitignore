@@ -1,1 +1,9 @@
+# Ignore environment files
 .env
+
+# Ignore all log files
+*.log
+
+# Ignore specific directories
+node_modules/
+__pycache__/
