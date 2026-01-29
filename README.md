@@ -26,7 +26,7 @@ This project is a Python-based application that leverages the `phi` library to c
 - **YFinanceTools**: Used by the Finance Agent for fetching financial data.
 
 ### 3. Language Models
-- The agents use either **Groq's `llama-3.3-70b-versatile`** or **OpenAI's `gpt-4o`** as their underlying language models.
+- The agents use either **Groq's `llama-3.3-70b-versatile`** or **OpenAI's `gpt-4o`** as their underlying language models. (Basic Example)
 
 ### 4. Output Handling
 - Captures the output of the agents' responses using `io.StringIO`.
