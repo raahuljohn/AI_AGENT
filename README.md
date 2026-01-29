@@ -77,3 +77,4 @@ The project can be extended by:
 - `phi` library
 - `dotenv` library
 - API keys for Groq or OpenAI (if using their models)
+- checkin git SSH
